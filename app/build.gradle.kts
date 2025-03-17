@@ -66,7 +66,7 @@ dependencies {
     implementation(libs.maps.compose)
     implementation(libs.android.v11102)
 
-    // Room (Base de Datos local)
+    // Room (Base de Datos local) Aun por probar
     implementation(libs.androidx.room.runtime)
 
     // Testing
